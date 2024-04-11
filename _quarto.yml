@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "mlederbauer.github.io"
+  title: "Magdalena Lederbauer"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: 'assets/files/cv.pdf'
+        text: CV
 
 format:
   html:

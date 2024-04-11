@@ -1,5 +1,21 @@
 ---
-title: "mlederbauer.github.io"
+title: "Magdalena Lederbauer"
+toc: false
+image: "assets/images/bio-photo.png"
+about:
+    template: trestles
+    image-shape: round
+    image-width: 10em
+    links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/magdalena-lederbauer/
+    - text: Twitter
+      href: https://twitter.com/maglederb
+    - text: GitHub
+      href: https://github.com/mlederbauer
+    - text: Email
+      href: mailto:mlederbauer@ethz.ch
+ 
 ---
 
 This is a Quarto website.
