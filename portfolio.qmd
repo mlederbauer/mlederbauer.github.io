@@ -1,5 +1,10 @@
 ---
-title: "About"
+title: "Portfolio"
 ---
 
-About this site
+I have been active in a number of personal and open source projects. Here are some of them – click on the links to learn more:
+
+*
+![Portfolio Item 1](./portfolio/24-RAMBO-I/item.png)
+[RAMBO: Initializing BO, the smart way.](./portfolio/24-RAMBO-I/item.qmd)
+Contribution to the 2024 BO&Materials Hackathon hosted by the Acceleration Consortium.
