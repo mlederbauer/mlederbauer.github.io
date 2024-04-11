@@ -7,17 +7,15 @@ about:
     image-shape: round
     image-width: 10em
     links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/magdalena-lederbauer/
-    - text: Twitter
-      href: https://twitter.com/maglederb
-    - text: GitHub
+    - icon: github
       href: https://github.com/mlederbauer
-    - text: Email
+    - icon: twitter
+      href: https://twitter.com/maglederb
+    - icon: linkedin
+      href: https://www.linkedin.com/in/magdalena-lederbauer/
+    - text: e-mail
       href: mailto:mlederbauer@ethz.ch
  
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my personal website!
