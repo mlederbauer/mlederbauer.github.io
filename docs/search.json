@@ -16,8 +16,15 @@
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
-    "title": "About",
+    "title": "Portfolio",
     "section": "",
-    "text": "About this site"
+    "text": "I have been active in a number of personal and open source projects. Here are some of them – click on the links to learn more:\n\n RAMBO: Initializing BO, the smart way. Contribution to the 2024 BO&Materials Hackathon hosted by the Acceleration Consortium."
+  },
+  {
+    "objectID": "portfolio/24-RAMBO-I/item.html",
+    "href": "portfolio/24-RAMBO-I/item.html",
+    "title": "RAMBO-I: Initializing BO, the smart way",
+    "section": "",
+    "text": "RAMBBO-I: Initializing BO, the smart way\n\n\ntest\nWIP"
   }
 ]

@@ -7,5 +7,11 @@
   },
   "portfolio.qmd": {
     "portfolio.html": "0a739339"
+  },
+  "portfolio/24-RAMBO-I/item.qmd": {
+    "item.html": "65d2901a"
+  },
+  "portfolio/xx-TITLE/item.qmd": {
+    "item.html": "c404ab99"
   }
 }
