@@ -3,6 +3,7 @@ title: "Magdalena Lederbauer"
 toc: false
 image: "assets/images/bio-photo.png"
 about:
+    id: heading
     template: trestles
     image-shape: round
     image-width: 10em
@@ -18,4 +19,44 @@ about:
  
 ---
 
+
+:::{#heading}
+
 Welcome to my personal website!
+See [CV] for my academic CV. Happy to get in touch on social media (LinkedIn, X, e-mail).
+
+:::
+
+
+
+### What's New
+
+* [24/03] I started working as a research intern in the Laboratory of Artificial Chemical Intelligence (LIAC) at EPFL! I will be working with Philippe Schwaller and Andres M. Bran on Large Language Models in Heterogeneous Catalysis.
+* [23/09] I am starting my master's studies in chemistry at ETH Zurich, supported by the Excellence Scholarship and Opportunity Program (ESOP) by the ETH Foundation. I am excited to continue working on the intersection of Digital Chemistry, Transition Metals and Chemical Engineering.
+
+
+
+## Awards
+
+
+## Press
+
+
+## Posters, Talks, Publications, Book Chapters
+
+
+## Work
+
+#### [24/03-present] Research Intern, Laboratory of Artificial Chemical Intelligence (LIAC) at EPFL, Switzerland
+
+#### [23/09-23/12] Project Student DCL
+
+#### [23/03-23/06] Project Student Copéret Group
+
+#### [22/04-23/06] Research Assistant EPSE
+
+## Education
+
+#### [23/09-present] Master of Science in Chemistry (MSc ETH Chemistry), ETH Zurich, Zurich
+
+#### [20/09-23/09] Bachelor of Science in Chemistry (BSc ETH Chemistry), ETH Zurich, Zurich
