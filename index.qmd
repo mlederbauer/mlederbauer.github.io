@@ -38,10 +38,10 @@ See [CV] for my academic CV, here is a short listing. I love to work on science 
 
 ## Awards
 
-* [2024] *Frau des Monats, März 2024*. Woman of the month, March 2024. Highlighting young women in STEM, initiated by my high school, Wiedner Gymnasium – Sir Karl Popper Schule
 * [2023] *Impact Potential Award* at the SDSC Hackathon on Generative AI
 * [2023] Acceptance into the *Excellence Scholarship and Opportunity Programme* (ESOP)
 * [2022] Acceptance into the *Swiss Study Foundation*. Merit-based excellence program for students until their graduation from university.
+* [2020] Acceptance for an *Excellence Scholarship for studies abroad*, awarded by the Lower Austrian Agency for research promotion.
 * [2020] *Karl**a Award for the best STEM school research project
 * [2020] *Best STEM school research project*, awarded by the Institute of Science and Technology (ISTA)
 * [2020] *Agnes-Ruis Prize for best experimental school research project*, Austrian Chemists’ Society
@@ -62,12 +62,19 @@ See [CV] for my academic CV, here is a short listing. I love to work on science 
 ## Press
 
 2024
-
+* Feature *Frau des Monats, März 2024*. Woman of the month, March 2024, at my former high school. Highlighting young women in STEM, initiated by my high school, Wiedner Gymnasium – Sir Karl Popper Schule
 2023
 
-* [Get to know the new excellence scholarship holders at D-CHAB (EN/DE)](https://chab.ethz.ch/news-und-veranstaltungen/d-chab-news/2023/11/fuenf-neue-exzellenz-stipendiatinnen-am-d-chab-stellen-sich-vor.html). Feature of the excellence scholarship holders of the department of chemistry and applied biosciences at ETH Zurich. I highlight what motivates me about my studies and science!
+* Online Article (EN/DE) [Get to know the new excellence scholarship holders at D-CHAB](https://chab.ethz.ch/news-und-veranstaltungen/d-chab-news/2023/11/fuenf-neue-exzellenz-stipendiatinnen-am-d-chab-stellen-sich-vor.html). Feature of the excellence scholarship holders of the department of chemistry and applied biosciences at ETH Zurich. I highlight what motivates me about my studies and science!
+* Podcast (DE) [FM4 Anfang 20](https://podcasts.apple.com/ch/podcast/fm4-anfang-20/id1576152788?i=1000609335072) Podcast episode by the Austrian radio network FM4 on my experiences as a gifted student a school for gifted students
+
+2020
+* Podcast (DE) [Podcast about gifted education](https://www.popperschule.at/begabungsfoerderung/beste-koepfe-der-podcast-fuer-talentefoerderung-und-hochbegabung/) An interview of me as a former student of the Sir Karl Popper Schule as well as a successful "chemistry olympian". I am giving detailed insights into everyday school life at the Sir Karl Popper Schule, tells what makes it a special school for me and reveal why the best gingerbread spice recipe has something to do with science!
 
 2019
+* Article Wiener Zeitung (DE)
+* Article Niederösterreichische Nachrichten (DE)
+* Feature *Wienerin des Monats, Juli 2019*. Viennese of the month, July 2019.
 
 ## Posters, Talks, Publications, Book Chapters
 
