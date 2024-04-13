@@ -50,9 +50,11 @@ See [CV] for my academic CV, here is a short listing. I love to work on science 
 * [2020] *Silver Medal*, International Chemistry Olympiad
 * [2020] *1st place and national winner*, Austrian Chemistry Olympiad
 * [2019] Acceptance into the *Austrian Study Foundation* Program. Merit-based excellence program for high-school students in their last year of school until their graduation from university.
+* [2019] *1st place, Student Competition of the University of Vienna*
 * [2019] *Silver Medal*, International Chemistry Olympiad
 * [2019] *Silver Medal*, International Mendeleev Chemistry Olympiad
 * [2019] *1st place and national winner*, Austrian Chemistry Olympiad
+* [2018] *2nd place and audience award, Student Competition of the University of Vienna* 
 * [2018] *Bronze Medal*, International Chemistry Olympiad
 * [2017] *Best Internship Report Award* of Austrian Research Foundation
 <!-- * [2017] *3rd Prize*, Regional Chemistry Olympiad (Vienna) -->
@@ -61,23 +63,43 @@ See [CV] for my academic CV, here is a short listing. I love to work on science 
 
 ## Press
 
-2024
-* Feature *Frau des Monats, März 2024*. Woman of the month, March 2024, at my former high school. Highlighting young women in STEM, initiated by my high school, Wiedner Gymnasium – Sir Karl Popper Schule
-2023
 
-* Online Article (EN/DE) [Get to know the new excellence scholarship holders at D-CHAB](https://chab.ethz.ch/news-und-veranstaltungen/d-chab-news/2023/11/fuenf-neue-exzellenz-stipendiatinnen-am-d-chab-stellen-sich-vor.html). Feature of the excellence scholarship holders of the department of chemistry and applied biosciences at ETH Zurich. I highlight what motivates me about my studies and science!
-* Podcast (DE) [FM4 Anfang 20](https://podcasts.apple.com/ch/podcast/fm4-anfang-20/id1576152788?i=1000609335072) Podcast episode by the Austrian radio network FM4 on my experiences as a gifted student a school for gifted students
 
-2020
-* Podcast (DE) [Podcast about gifted education](https://www.popperschule.at/begabungsfoerderung/beste-koepfe-der-podcast-fuer-talentefoerderung-und-hochbegabung/) An interview of me as a former student of the Sir Karl Popper Schule as well as a successful "chemistry olympian". I am giving detailed insights into everyday school life at the Sir Karl Popper Schule, tells what makes it a special school for me and reveal why the best gingerbread spice recipe has something to do with science!
+* [2024] Feature *Frau des Monats, März 2024* (DE). Woman of the month, March 2024, at my former high school. Highlighting young women in STEM, initiated by my high school, Wiedner Gymnasium – Sir Karl Popper Schule
 
-2019
-* Article Wiener Zeitung (DE)
-* Article Niederösterreichische Nachrichten (DE)
-* Feature *Wienerin des Monats, Juli 2019*. Viennese of the month, July 2019.
+* [2024] Article Niederösterreichische Nachrichten (DE)
 
-## Posters, Talks, Publications, Book Chapters
+* [2023] Article (EN/DE) [Get to know the new excellence scholarship holders at D-CHAB](https://chab.ethz.ch/news-und-veranstaltungen/d-chab-news/2023/11/fuenf-neue-exzellenz-stipendiatinnen-am-d-chab-stellen-sich-vor.html). Feature of the excellence scholarship holders of the department of chemistry and applied biosciences at ETH Zurich. I highlight what motivates me about my studies and science!
 
+* [2023] Podcast (DE) [FM4 Anfang 20](https://podcasts.apple.com/ch/podcast/fm4-anfang-20/id1576152788?i=1000609335072) Podcast episode by the Austrian radio network FM4 on my experiences as a gifted student a school for gifted students
+
+* [2020] Podcast (DE) [Podcast about gifted education](https://www.popperschule.at/begabungsfoerderung/beste-koepfe-der-podcast-fuer-talentefoerderung-und-hochbegabung/) An interview of me as a former student of the Sir Karl Popper Schule as well as a successful "chemistry olympian". I am giving detailed insights into everyday school life at the Sir Karl Popper Schule, tells what makes it a special school for me and reveal why the best gingerbread spice recipe has something to do with science!
+
+* [2019] Article Wiener Zeitung (DE)
+
+* [2019] Article Niederösterreichische Nachrichten (DE)
+
+* [2019] Feature *Wienerin des Monats, Juli 2019*. Viennese of the month, July 2019.
+
+## Publications
+
+### Articles
+
+* [2021] VWA Ionische Flüssigkeiten
+
+### Poster Presentations
+
+* [2024] CCSC Heidelberg
+* [2024] ETH Foundation
+* [2023] SCS Fall Meeting
+
+### Oral Presentation
+
+* [2024] ETH Foundation
+
+### Book Chapters
+
+* [2023] 10 things to know about IChO
 
 ## Work
 
@@ -88,6 +110,24 @@ See [CV] for my academic CV, here is a short listing. I love to work on science 
 #### [23/03-23/06] Project Student Copéret Group
 
 #### [22/04-23/06] Research Assistant EPSE
+
+## Teaching
+
+#### [2023-present] Mentor, Women in Natural Sciences
+
+#### [2023-present] Tutor, Austrian Chemistry Olympiad
+
+#### [2023] Head Teaching Assistant for the lecture Inorganic Chemistry I
+
+#### [2021-2022] Teaching Assistant
+
+#### Mentor, Women in Natural Sciences
+
+## Outreach
+
+CHIMIA youngSCS article
+CHIMIA WiNS article
+Exsi WiNS article
 
 ## Education
 
