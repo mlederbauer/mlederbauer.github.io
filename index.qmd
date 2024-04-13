@@ -55,7 +55,7 @@ See [CV] for my academic CV, here is a short listing. I love to work on science 
 * [2019] *1st place and national winner*, Austrian Chemistry Olympiad
 * [2018] *Bronze Medal*, International Chemistry Olympiad
 * [2017] *Best Internship Report Award* of Austrian Research Foundation
-* [2017] *3rd Prize*, Regional Chemistry Olympiad (Vienna)
+<!-- * [2017] *3rd Prize*, Regional Chemistry Olympiad (Vienna) -->
 <!-- * [2017] *Honourable Mention*, Regional Mathematics Olympiad (Vienna)
 * [2016] *Honourable Mention*, Regional Mathematics Olympiad (Vienna) -->
 
