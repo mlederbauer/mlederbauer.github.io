@@ -36,12 +36,16 @@ See [CV] for my academic CV, here is a short listing. I love to work on science 
 
 
 
-## Awards
+## Grants and Scholarships
+* [2024] *Zeno Karl Schindler Foundation Grant* for a master's thesis in Engineering, 12'000 CHF
+<!-- * [2024] Swiss European Mobility Program, 3'000 CHF -->
+* [2023] Acceptance into the *Excellence Scholarship and Opportunity Programme* (ESOP), 36'000 CHF
+* [2020] Acceptance for an *Excellence Scholarship for studies abroad*, awarded by the Lower Austrian Agency for research promotion, 60'000 EUR
 
-* [2023] *Impact Potential Award* at the SDSC Hackathon on Generative AI
-* [2023] Acceptance into the *Excellence Scholarship and Opportunity Programme* (ESOP)
-* [2022] Acceptance into the *Swiss Study Foundation*. Merit-based excellence program for students until their graduation from university.
-* [2020] Acceptance for an *Excellence Scholarship for studies abroad*, awarded by the Lower Austrian Agency for research promotion.
+## Awards and Prizes
+* [2024] *1st Poster Prize* at the Chemical Compound Space Conference 2024, Heidelberg, Germany; 1/51 presenters
+* [2024] *2nd Place and Knowledge Graph Prize* at the 2nd LLM Hackathon for Applications in Materials Science and Chemistry; 2/36 teams
+* [2023] *Impact Potential Award* at the SDSC Hackathon on Generative AI; 1/15 teams
 * [2020] *Karl**a Award for the best STEM school research project
 * [2020] *Best STEM school research project*, awarded by the Institute of Science and Technology (ISTA)
 <!-- https://www.wiednergymnasium.at/schulalltag/wettbewerbe/523-ist-austria-schulwettbewerb -->
@@ -51,7 +55,6 @@ See [CV] for my academic CV, here is a short listing. I love to work on science 
 * [2020] *10th place worldwide*, Baltic Chemistry Competition
 * [2020] *Silver Medal*, International Chemistry Olympiad
 * [2020] *1st place and national winner*, Austrian Chemistry Olympiad
-* [2019] Acceptance into the *Austrian Study Foundation* Program. Merit-based excellence program for high-school students in their last year of school until their graduation from university.
 * [2019] *1st place, Student Competition of the University of Vienna*
 * [2019] *Silver Medal*, International Chemistry Olympiad
 * [2019] *Silver Medal*, International Mendeleev Chemistry Olympiad
@@ -63,6 +66,12 @@ See [CV] for my academic CV, here is a short listing. I love to work on science 
 <!-- * [2017] *3rd Prize*, Regional Chemistry Olympiad (Vienna) -->
 <!-- * [2017] *Honourable Mention*, Regional Mathematics Olympiad (Vienna)
 * [2016] *Honourable Mention*, Regional Mathematics Olympiad (Vienna) -->
+
+## Memberships
+* [2022] Acceptance into the *Swiss Study Foundation*. Merit-based excellence program for students until their graduation from university.
+* [2020] Scholarship holder of the European Forum Alpbach 2020 (Lower Austria)
+* [2019] Acceptance into the *Austrian Study Foundation* Program. Merit-based excellence program for high-school students in their last year of school until their graduation from university.
+
 
 ## Press
 
@@ -111,53 +120,6 @@ See [CV] for my academic CV, here is a short listing. I love to work on science 
 * [2018] [Feature of the winning teams of the European Science Olympiad 2018](https://www.ph-kaernten.ac.at/aktuelles/detail/?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=339&cHash=f4260518d066fc2e1fc3094d248377a9) I am beyond proud and excited for our team!
 <!-- https://m.noen.at/moedling/scienceolympiaden-sieg-kaltenleutgebnerin-holt-silbermedaille-magdalena-lederbauer-16-europaeische-scienceolympiade-93989625 -->
 
-## Publications
-
-### Articles
-
-* [2021] VWA Ionische Flüssigkeiten
-
-### Poster Presentations
-
-* [2024] CCSC Heidelberg
-* [2024] ETH Foundation
-* [2023] SCS Fall Meeting
-
-### Oral Presentation
-
-* [2024] ETH Foundation
-
-### Book Chapters
-
-* [2023] 10 things to know about IChO
-
-## Work
-
-#### [24/03-present] Research Intern, Laboratory of Artificial Chemical Intelligence (LIAC) at EPFL, Switzerland
-
-#### [23/09-23/12] Project Student DCL
-
-#### [23/03-23/06] Project Student Copéret Group
-
-#### [22/04-23/06] Research Assistant EPSE
-
-## Teaching
-
-#### [2023-present] Mentor, Women in Natural Sciences
-
-#### [2023-present] Tutor, Austrian Chemistry Olympiad
-
-#### [2023] Head Teaching Assistant for the lecture Inorganic Chemistry I
-
-#### [2021-2022] Teaching Assistant
-
-#### [2018-2019] Mentor for Chemistry, European Science Olympiad
-
-#### Tutoring [2017-2020]
-Private tutor for Latin, Mathematics, Chemistry.
-Voluntary teacher (Mathematics, Chemistry) for an online tutoring platform for the preparation of matriculation and general courses during schools closure due to COVID-19 outbreak in Austria (graduaid.info)
-
-## Outreach
 
 #### Chemical Education
 
