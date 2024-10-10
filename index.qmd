@@ -31,10 +31,10 @@ See [CV] for my academic CV, here is a short listing. I love to work on science 
 
 ## What's New
 
-* [24/0] I joined the **Massachusetts Institute of Technology** for my master's thesis! In the Department of Chemical Engineering in the group of Connor W. Coley, I am working on structure elucidation of mass spectra using neural networks. I am supported by the Zeno Karl Schindler Master's Thesis Grant and the Swiss European Mobility Programme.
-* [24/03] I started working as a research intern in the Laboratory of Artificial Chemical Intelligence (LIAC) at **EPFL**! I will be working with Philippe Schwaller and Andres M. Bran on large language model agents in
+* **[24/10]** I joined the **Massachusetts Institute of Technology** for my master's thesis! In the Department of Chemical Engineering in the group of Connor W. Coley, I am working on structure elucidation of mass spectra using neural networks. I am supported by the Zeno Karl Schindler Master's Thesis Grant and the Swiss European Mobility Programme.
+* **[24/03]** I started working as a research intern in the Laboratory of Artificial Chemical Intelligence (LIAC) at **EPFL**! I will be working with Philippe Schwaller and Andres M. Bran on large language model agents in
 heterogeneous catalysis. Our work won a poster award at the Faraday Discussions in data-driven discovery in the chemical sciences in Oxford, UK.
-* [23/09] I am starting my **master's studies in chemistry at ETH Zurich**, supported by the Excellence Scholarship and Opportunity Program** (ESOP) by the ETH Foundation.
+* **[23/09]** I am starting my **master's studies in chemistry at ETH Zurich**, supported by the **Excellence Scholarship and Opportunity Program** (ESOP) by the ETH Foundation.
 
 ## By The Way
 
