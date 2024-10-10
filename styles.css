@@ -1,9 +1,16 @@
 /* css styles */
 
 /* Change the main font */
-body {
+ body {
     font-family: 'Arial', sans-serif;
   }
+
+  /* @import url('https://fonts.cdnfonts.com/css/latin-modern-sans');
+
+  /* Apply Latin Modern Sans to the whole document */
+  /* body {
+    font-family: 'Latin Modern Sans', sans-serif;
+  } */ */
   
   /* Customize header colors */
   h1, h2, h3 {
