@@ -10,7 +10,7 @@ website:
         text: Home
       - href: 'assets/files/cv.pdf'
         text: CV
-      - href: portfolio.qmd
+      - href: portfolio/portfolio.qmd
         text: Portfolio
       - href: press.qmd
         text: Press

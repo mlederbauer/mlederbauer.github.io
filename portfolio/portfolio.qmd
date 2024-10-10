@@ -1,0 +1,52 @@
+---
+title: "Portfolio"
+format:
+  html:
+    css: styles.css
+---
+
+I have been active in a number of personal and open source projects. Here are some of them:
+
+::: {.grid}
+
+::: {.g-col-6}
+::: {.project-panel}
+[![GlossaGen Logo](images/glossagen-logo.png){.img-fluid}](glossagen.qmd)
+
+### GlossaGen
+
+An AI-powered glossary generation tool for technical documents.
+:::
+:::
+
+::: {.g-col-6}
+::: {.project-panel}
+[![RAMBO Project Image](24-RAMBO-I/item.png){.img-fluid}](rambo.qmd)
+
+### RAMBO: Initializing BO, the smart way
+
+Contribution to the 2024 BO&Materials Hackathon hosted by the Acceleration Consortium.
+:::
+:::
+
+::: {.g-col-6}
+::: {.project-panel}
+[![SACCrow Logo](images/saccrow-logo.png){.img-fluid}](saccrow.qmd)
+
+### SACCrow
+
+A sentiment analysis tool for crowdsourced reviews.
+:::
+:::
+
+::: {.g-col-6}
+::: {.project-panel}
+[![ChemLitQA Logo](images/chemlitqa-logo.png){.img-fluid}](chemlitqa.qmd)
+
+### ChemLitQA
+
+A question-answering system for chemistry literature.
+:::
+:::
+
+:::

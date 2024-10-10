@@ -180,5 +180,40 @@
     "title": "Portfolio",
     "section": "ChemLitQA",
     "text": "ChemLitQA\n description"
+  },
+  {
+    "objectID": "portfolio/portfolio.html",
+    "href": "portfolio/portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "I have been active in a number of personal and open source projects. Here are some of them:\n\n\n\n\n\n\nGlossaGen Logo\n\n\n\nGlossaGen\nAn AI-powered glossary generation tool for technical documents.\n\n\n\n\n\n\n\n\nRAMBO Project Image\n\n\n\nRAMBO: Initializing BO, the smart way\nContribution to the 2024 BO&Materials Hackathon hosted by the Acceleration Consortium.\n\n\n\n\n\n\n\n\nSACCrow Logo\n\n\n\nSACCrow\nA sentiment analysis tool for crowdsourced reviews.\n\n\n\n\n\n\n\n\nChemLitQA Logo\n\n\n\nChemLitQA\nA question-answering system for chemistry literature."
+  },
+  {
+    "objectID": "portfolio/portfolio.html#glossagen",
+    "href": "portfolio/portfolio.html#glossagen",
+    "title": "Portfolio",
+    "section": "GlossaGen",
+    "text": "GlossaGen\nAn AI-powered glossary generation tool for technical documents."
+  },
+  {
+    "objectID": "portfolio/portfolio.html#rambo-initializing-bo-the-smart-way",
+    "href": "portfolio/portfolio.html#rambo-initializing-bo-the-smart-way",
+    "title": "Portfolio",
+    "section": "RAMBO: Initializing BO, the smart way",
+    "text": "RAMBO: Initializing BO, the smart way\n\n\n\nRAMBO Project Image\n\n\nContribution to the 2024 BO&Materials Hackathon hosted by the Acceleration Consortium."
+  },
+  {
+    "objectID": "portfolio/portfolio.html#saccrow",
+    "href": "portfolio/portfolio.html#saccrow",
+    "title": "Portfolio",
+    "section": "SACCrow",
+    "text": "SACCrow\nA sentiment analysis tool for crowdsourced reviews."
+  },
+  {
+    "objectID": "portfolio/portfolio.html#chemlitqa",
+    "href": "portfolio/portfolio.html#chemlitqa",
+    "title": "Portfolio",
+    "section": "ChemLitQA",
+    "text": "ChemLitQA\nA question-answering system for chemistry literature."
   }
 ]

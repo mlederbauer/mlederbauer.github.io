@@ -1,0 +1,38 @@
+.grid {
+    display: grid;
+    gap: 1rem;
+  }
+  
+  .g-col-6 {
+    grid-column: span 6;
+  }
+  
+  .project-panel {
+    display: block;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .project-panel:hover {
+    transform: translateY(-5px);
+  }
+  
+  .project-panel img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+  }
+  
+  .project-panel h3 {
+    margin-top: 0;
+  }
+  
+  @media (min-width: 768px) {
+    .grid {
+      grid-template-columns: repeat(12, 1fr);
+    }
+  }
