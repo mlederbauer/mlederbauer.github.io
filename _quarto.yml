@@ -8,10 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: portfolio.qmd
-        text: Portfolio
       - href: 'assets/files/cv.pdf'
         text: CV
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: press.qmd
+        text: Press
       - href: https://bytesizedchem.com
         text: Blog
 
