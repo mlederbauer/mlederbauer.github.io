@@ -1,1 +1,33 @@
 /* css styles */
+
+/* Change the main font */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Customize header colors */
+  h1, h2, h3 {
+    color: #4a4a4a;
+  }
+  
+  /* Style links */
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Customize the navigation bar */
+  .navbar {
+    background-color: #f8f9fa;
+  }
+  
+  /* Style code blocks */
+  pre {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 5px;
+  }
