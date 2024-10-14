@@ -5,8 +5,8 @@ image: "assets/images/bio-photo.jpeg"
 about:
     id: heading
     template: trestles
-    image-shape: round
-    image-width: 10em
+    image-shape: rectangle
+    image-width: 20em
     links:
     - icon: github
       href: https://github.com/mlederbauer
@@ -35,7 +35,3 @@ See [CV] for my academic CV, here is a short listing. I love to work on science 
 * **[24/03]** I started working as a research intern in the Laboratory of Artificial Chemical Intelligence (LIAC) at **EPFL**! I will be working with Philippe Schwaller and Andres M. Bran on large language model agents in
 heterogeneous catalysis. Our work won a poster award at the Faraday Discussions in data-driven discovery in the chemical sciences in Oxford, UK.
 * **[23/09]** I am starting my **master's studies in chemistry at ETH Zurich**, supported by the **Excellence Scholarship and Opportunity Program** (ESOP) by the ETH Foundation.
-
-## By The Way
-
-A recent passion project of mine is combining chemical education with digital chemistry. I've started a blog called [ByteSizedChem](https://bytesizedchem.com)  – it's a work in progress – to share my findings and tips for new students getting started in this exciting field. Feedback always welcome!
