@@ -6,11 +6,11 @@ website:
   title: "Magdalena Lederbauer"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      # - href: index.qmd
+      #   text: Home
       - href: 'assets/files/cv.pdf'
         text: CV
-      - href: portfolio/portfolio.qmd
+      - href: portfolio.qmd
         text: Portfolio
       - href: press.qmd
         text: Press
