@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Lederbauer"
 toc: false
-image: "assets/images/bio-photo.png"
+image: "assets/images/bio-photo.jpeg"
 about:
     id: heading
     template: trestles

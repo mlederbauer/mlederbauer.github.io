@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "portfolio/24-GlossaGen/item.html",
+    "href": "portfolio/24-GlossaGen/item.html",
+    "title": "RAMBO-I: Initializing BO, the smart way",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Magdalena Lederbauer",
-    "section": "",
-    "text": "e-mail\n  \n\n  \n  \nWelcome to my personal website! See [CV] for my academic CV, here is a short listing. I love to work on science and extracurricular projects, see my Portfolio for details. Happy to get in touch on social media (LinkedIn, X, e-mail)."
-  },
-  {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Portfolio",
-    "section": "",
-    "text": "I have been active in a number of personal and open source projects. Here are some of them – click on the links to learn more:"
+    "text": "RAMBBO-I: Initializing BO, the smart way\n\n\ntest\nWIP"
   },
   {
     "objectID": "portfolio/24-RAMBO-I/item.html",
@@ -28,18 +14,11 @@
     "text": "RAMBBO-I: Initializing BO, the smart way\n\n\ntest\nWIP"
   },
   {
-    "objectID": "index.html#education-1",
-    "href": "index.html#education-1",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Magdalena Lederbauer",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Magdalena Lederbauer",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+    "section": "",
+    "text": "e-mail\n  \n\n  \n  \nWelcome to my personal website! See [CV] for my academic CV, here is a short listing. I love to work on science and extracurricular projects, see my Portfolio for details. Happy to get in touch on social media (LinkedIn, X, e-mail)."
   },
   {
     "objectID": "index.html#whats-new",
@@ -49,95 +28,11 @@
     "text": "What’s New\n\n[24/10] I joined the Massachusetts Institute of Technology for my master’s thesis! In the Department of Chemical Engineering in the group of Connor W. Coley, I am working on structure elucidation of mass spectra using neural networks. I am supported by the Zeno Karl Schindler Master’s Thesis Grant and the Swiss European Mobility Programme.\n[24/03] I started working as a research intern in the Laboratory of Artificial Chemical Intelligence (LIAC) at EPFL! I will be working with Philippe Schwaller and Andres M. Bran on large language model agents in heterogeneous catalysis. Our work won a poster award at the Faraday Discussions in data-driven discovery in the chemical sciences in Oxford, UK.\n[23/09] I am starting my master’s studies in chemistry at ETH Zurich, supported by the Excellence Scholarship and Opportunity Program (ESOP) by the ETH Foundation."
   },
   {
-    "objectID": "index.html#posters-talks-publications-book-chapters",
-    "href": "index.html#posters-talks-publications-book-chapters",
+    "objectID": "index.html#by-the-way",
+    "href": "index.html#by-the-way",
     "title": "Magdalena Lederbauer",
-    "section": "Posters, Talks, Publications, Book Chapters",
-    "text": "Posters, Talks, Publications, Book Chapters"
-  },
-  {
-    "objectID": "index.html#awards",
-    "href": "index.html#awards",
-    "title": "Magdalena Lederbauer",
-    "section": "Awards",
-    "text": "Awards\n\n[2023] Impact Potential Award at the SDSC Hackathon on Generative AI\n[2023] Acceptance into the Excellence Scholarship and Opportunity Programme (ESOP)\n[2022] Acceptance into the Swiss Study Foundation. Merit-based excellence program for students until their graduation from university.\n[2020] Acceptance for an Excellence Scholarship for studies abroad, awarded by the Lower Austrian Agency for research promotion.\n[2020] *Karl**a Award for the best STEM school research project\n[2020] Best STEM school research project, awarded by the Institute of Science and Technology (ISTA) \n[2020] Agnes-Ruis Prize for best experimental school research project, Austrian Chemists’ Society\n[2020] Best Chemistry school research project, Dr. Hans-Riegel-Fachpreise (DACH-area) \n[2020] 10th place worldwide, Baltic Chemistry Competition\n[2020] Silver Medal, International Chemistry Olympiad\n[2020] 1st place and national winner, Austrian Chemistry Olympiad\n[2019] Acceptance into the Austrian Study Foundation Program. Merit-based excellence program for high-school students in their last year of school until their graduation from university.\n[2019] 1st place, Student Competition of the University of Vienna\n[2019] Silver Medal, International Chemistry Olympiad\n[2019] Silver Medal, International Mendeleev Chemistry Olympiad\n[2019] 1st place and national winner, Austrian Chemistry Olympiad\n[2018] 2nd place and audience award, Student Competition of the University of Vienna\n[2018] Bronze Medal, International Chemistry Olympiad\n[2017] Best Internship Report Award of Austrian Research Foundation"
-  },
-  {
-    "objectID": "index.html#press",
-    "href": "index.html#press",
-    "title": "Magdalena Lederbauer",
-    "section": "Press",
-    "text": "Press\n\n[2024] Feature Frau des Monats, März 2024 (DE). Woman of the month, March 2024, at my former high school. Highlighting young women in STEM, initiated by my high school, Wiedner Gymnasium – Sir Karl Popper Schule\n[2024] Article Niederösterreichische Nachrichten (DE) About my master studies.\n[2023] Portrait by the Austrian Academy of Sciences Study Foundation (DE)\n[2023] Get to know the new excellence scholarship holders at D-CHAB (EN/DE). Feature of the excellence scholarship holders of the department of chemistry and applied biosciences at ETH Zurich. I highlight what motivates me about my studies and science!\n[2023] Article about our involvement as authors of the International Chemistry Olympiad in Switzerland (EN/DE)\n[2023] Portrait of the authors of the IChO 2023 Catalyzer I am super proud of our science commumnication team!\n[2023] Podcast FM4 Anfang 20 (DE) Podcast episode by the Austrian radio network FM4 on my experiences as a gifted student a school for gifted students\n[2022] Feature of the scholarship holders of the excellence program of studies abroad by Lower Austria\n[2021] Article Niederösterreichische Nachrichten (DE)\n[2020] Article NÖN (DE)\n[2020] Club Alpbach Scholarship for the Lower Austrian cohort. Due to COVID-19 outbreak held in Lower Austria. With 18 years old the youngest of 20 scholarship holders.\n[2020] Podcast (DE) Podcast about gifted education An interview of me as a former student of the Sir Karl Popper Schule as well as a successful “chemistry olympian”. I am giving detailed insights into everyday school life at the Sir Karl Popper Schule, tells what makes it a special school for me and reveal why the best gingerbread spice recipe has something to do with science!\n[2019] Jump-start into science, ORF (DE)\n[2019] 25 talents that will change your business model (DE) I was featured by one of the leading industry magazines in Austria during my time as an “olympian” in the chemistry olympiad.\n[2019] Feature of the training for the European Science Olympiad 2019 I worked as a mentor and co-lead for chemistry in 2019. We are super proud for our team to have scored a gold and a bronze medal! 🎉\n[2019] Feature by the PH NOE of the winners of the 2019 Austrian National Chemistry Olympiad\n[2019] Article Wiener Zeitung (DE)\n[2019] Feature by KURIER of the winners of the 2019 Austrian National Chemistry Olympiad\n[2019] Article Niederösterreichische Nachrichten (DE)\n[2019] Feature Wienerin des Monats, Juli 2019. Viennese of the month, July 2019. (DE)\n[2018] Feature of the winning teams of the European Science Olympiad 2018 I am beyond proud and excited for our team! \n\n\nChemical Education\nA recent passion project of mine is combining chemical education with digital chemistry. I’ve started a blog called ByteSizedChem – it’s a work in progress – to share my findings and tips for new students getting started in this exciting field. Feedback always welcome!\n\n\nWomen in Natural Sciences\nCHIMIA WiNS article Exsi WiNS article\n\n\nThe young Swiss Chemical Society\nCHIMIA youngSCS article\n\n\nChemistry at ETHZ\nI have been an active member of the Bachelor’s and Master’s students association of Chemistry students (VCS) at ETH Zurich. (drafting articles, first cohort after covid, green chemistry NAKO semester student information event)\n\n\nInternational Chemistry Olympiad"
-  },
-  {
-    "objectID": "index.html#work",
-    "href": "index.html#work",
-    "title": "Magdalena Lederbauer",
-    "section": "Work",
-    "text": "Work\n\n[24/03-present] Research Intern, Laboratory of Artificial Chemical Intelligence (LIAC) at EPFL, Switzerland\n\n\n[23/09-23/12] Project Student DCL\n\n\n[23/03-23/06] Project Student Copéret Group\n\n\n[22/04-23/06] Research Assistant EPSE"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Magdalena Lederbauer",
-    "section": "Education",
-    "text": "Education\n\n[23/09-present] Master of Science in Chemistry (MSc ETH Chemistry), ETH Zurich, Zurich\n\n\n[20/09-23/09] Bachelor of Science in Chemistry (BSc ETH Chemistry), ETH Zurich, Zurich"
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Magdalena Lederbauer",
-    "section": "Publications",
-    "text": "Publications\n\nArticles\n\n[2021] VWA Ionische Flüssigkeiten\n\n\n\nPoster Presentations\n\n[2024] CCSC Heidelberg\n[2024] ETH Foundation\n[2023] SCS Fall Meeting\n\n\n\nOral Presentation\n\n[2024] ETH Foundation\n\n\n\nBook Chapters\n\n[2023] 10 things to know about IChO"
-  },
-  {
-    "objectID": "index.html#teaching",
-    "href": "index.html#teaching",
-    "title": "Magdalena Lederbauer",
-    "section": "Teaching",
-    "text": "Teaching\n\n[2023-present] Mentor, Women in Natural Sciences\n\n\n[2023-present] Tutor, Austrian Chemistry Olympiad\n\n\n[2023] Head Teaching Assistant for the lecture Inorganic Chemistry I\n\n\n[2021-2022] Teaching Assistant\n\n\n[2018-2019] Mentor for Chemistry, European Science Olympiad\n\n\nTutoring [2017-2020]\nPrivate tutor for Latin, Mathematics, Chemistry. Voluntary teacher (Mathematics, Chemistry) for an online tutoring platform for the preparation of matriculation and general courses during schools closure due to COVID-19 outbreak in Austria (graduaid.info)"
-  },
-  {
-    "objectID": "index.html#outreach",
-    "href": "index.html#outreach",
-    "title": "Magdalena Lederbauer",
-    "section": "Outreach",
-    "text": "Outreach\n\nChemical Education\nA recent passion project of mine is combining chemical education with digital chemistry. I’ve started a blog called ByteSizedChem – it’s a work in progress – to share my findings and tips for new students getting started in this exciting field. Feedback always welcome!\n\n\nWomen in Natural Sciences\nCHIMIA WiNS article Exsi WiNS article\n\n\nThe young Swiss Chemical Society\nCHIMIA youngSCS article\n\n\nChemistry at ETHZ\nI have been an active member of the Bachelor’s and Master’s students association of Chemistry students (VCS) at ETH Zurich. (drafting articles, first cohort after covid, green chemistry NAKO semester student information event)\n\n\nInternational Chemistry Olympiad"
-  },
-  {
-    "objectID": "index.html#grants-and-scholarships",
-    "href": "index.html#grants-and-scholarships",
-    "title": "Magdalena Lederbauer",
-    "section": "Grants and Scholarships",
-    "text": "Grants and Scholarships\n\n[2024] Zeno Karl Schindler Foundation Grant for a master’s thesis in Engineering, 12’000 CHF \n[2023] Acceptance into the Excellence Scholarship and Opportunity Programme (ESOP), 36’000 CHF\n[2020] Acceptance for an Excellence Scholarship for studies abroad, awarded by the Lower Austrian Agency for research promotion, 60’000 EUR"
-  },
-  {
-    "objectID": "index.html#awards-and-prizes",
-    "href": "index.html#awards-and-prizes",
-    "title": "Magdalena Lederbauer",
-    "section": "Awards and Prizes",
-    "text": "Awards and Prizes\n\n[2024] 1st Poster Prize at the Chemical Compound Space Conference 2024, Heidelberg, Germany; 1/51 presenters\n[2024] 2nd Place and Knowledge Graph Prize at the 2nd LLM Hackathon for Applications in Materials Science and Chemistry; 2/36 teams\n[2023] Impact Potential Award at the SDSC Hackathon on Generative AI; 1/15 teams\n[2020] *Karl**a Award for the best STEM school research project\n[2020] Best STEM school research project, awarded by the Institute of Science and Technology (ISTA) \n[2020] Agnes-Ruis Prize for best experimental school research project, Austrian Chemists’ Society\n[2020] Best Chemistry school research project, Dr. Hans-Riegel-Fachpreise (DACH-area) \n[2020] 10th place worldwide, Baltic Chemistry Competition\n[2020] Silver Medal, International Chemistry Olympiad\n[2020] 1st place and national winner, Austrian Chemistry Olympiad\n[2019] 1st place, Student Competition of the University of Vienna\n[2019] Silver Medal, International Chemistry Olympiad\n[2019] Silver Medal, International Mendeleev Chemistry Olympiad\n[2019] 1st place and national winner, Austrian Chemistry Olympiad\n[2018] 2nd place and audience award, Student Competition of the University of Vienna\n[2018] Bronze Medal, International Chemistry Olympiad\n[2017] Best Internship Report Award of Austrian Research Foundation"
-  },
-  {
-    "objectID": "index.html#membership",
-    "href": "index.html#membership",
-    "title": "Magdalena Lederbauer",
-    "section": "Membership",
-    "text": "Membership\n\n[2022] Acceptance into the Swiss Study Foundation. Merit-based excellence program for students until their graduation from university.\n[2020] Scholarship holder of the European Forum Alpbach 2020 (Lower Austria)\n[2019] Acceptance into the Austrian Study Foundation Program. Merit-based excellence program for high-school students in their last year of school until their graduation from university."
-  },
-  {
-    "objectID": "portfolio/24-GlossaGen/item.html",
-    "href": "portfolio/24-GlossaGen/item.html",
-    "title": "RAMBO-I: Initializing BO, the smart way",
-    "section": "",
-    "text": "RAMBBO-I: Initializing BO, the smart way\n\n\ntest\nWIP"
-  },
-  {
-    "objectID": "index.html#memberships",
-    "href": "index.html#memberships",
-    "title": "Magdalena Lederbauer",
-    "section": "Memberships",
-    "text": "Memberships\n\n[2022] Acceptance into the Swiss Study Foundation. Merit-based excellence program for students until their graduation from university.\n[2020] Scholarship holder of the European Forum Alpbach 2020 (Lower Austria)\n[2019] Acceptance into the Austrian Study Foundation Program. Merit-based excellence program for high-school students in their last year of school until their graduation from university."
+    "section": "By The Way",
+    "text": "By The Way\nA recent passion project of mine is combining chemical education with digital chemistry. I’ve started a blog called ByteSizedChem – it’s a work in progress – to share my findings and tips for new students getting started in this exciting field. Feedback always welcome!"
   },
   {
     "objectID": "press.html",
@@ -147,73 +42,10 @@
     "text": "For any press inquiries, please do get in touch via e-mail.\n\n[2024] Feature Frau des Monats, März 2024 (DE). Woman of the month, March 2024, at my former high school. Highlighting young women in STEM, initiated by my high school, Wiedner Gymnasium – Sir Karl Popper Schule\n[2024] Article Niederösterreichische Nachrichten (DE) About my master studies.\n[2023] Portrait by the Austrian Academy of Sciences Study Foundation (DE)\n[2023] Get to know the new excellence scholarship holders at D-CHAB (EN/DE). Feature of the excellence scholarship holders of the department of chemistry and applied biosciences at ETH Zurich. I highlight what motivates me about my studies and science!\n[2023] Article about our involvement as authors of the International Chemistry Olympiad in Switzerland (EN/DE)\n[2023] Portrait of the authors of the IChO 2023 Catalyzer I am super proud of our science commumnication team!\n[2023] Podcast FM4 Anfang 20 (DE) Podcast episode by the Austrian radio network FM4 on my experiences as a gifted student a school for gifted students\n[2022] Feature of the scholarship holders of the excellence program of studies abroad by Lower Austria\n[2021] Article Niederösterreichische Nachrichten (DE)\n[2020] Article NÖN (DE)\n[2020] Club Alpbach Scholarship for the Lower Austrian cohort. Due to COVID-19 outbreak held in Lower Austria. With 18 years old the youngest of 20 scholarship holders.\n[2020] Podcast (DE) Podcast about gifted education An interview of me as a former student of the Sir Karl Popper Schule as well as a successful “chemistry olympian”. I am giving detailed insights into everyday school life at the Sir Karl Popper Schule, tells what makes it a special school for me and reveal why the best gingerbread spice recipe has something to do with science!\n[2019] Jump-start into science, ORF (DE)\n[2019] 25 talents that will change your business model (DE) I was featured by one of the leading industry magazines in Austria during my time as an “olympian” in the chemistry olympiad.\n[2019] Feature of the training for the European Science Olympiad 2019 I worked as a mentor and co-lead for chemistry in 2019. We are super proud for our team to have scored a gold and a bronze medal! 🎉\n[2019] Feature by the PH NOE of the winners of the 2019 Austrian National Chemistry Olympiad\n[2019] Article Wiener Zeitung (DE)\n[2019] Feature by KURIER of the winners of the 2019 Austrian National Chemistry Olympiad\n[2019] Article Niederösterreichische Nachrichten (DE)\n[2019] Feature Wienerin des Monats, Juli 2019. Viennese of the month, July 2019. (DE)\n[2018] Feature of the winning teams of the European Science Olympiad 2018 I am beyond proud and excited for our team!"
   },
   {
-    "objectID": "index.html#by-the-way",
-    "href": "index.html#by-the-way",
-    "title": "Magdalena Lederbauer",
-    "section": "By The Way",
-    "text": "By The Way\nA recent passion project of mine is combining chemical education with digital chemistry. I’ve started a blog called ByteSizedChem – it’s a work in progress – to share my findings and tips for new students getting started in this exciting field. Feedback always welcome!"
-  },
-  {
-    "objectID": "portfolio.html#rambo-initializing-bo-the-smart-way",
-    "href": "portfolio.html#rambo-initializing-bo-the-smart-way",
-    "title": "Portfolio",
-    "section": "RAMBO: Initializing BO, the smart way",
-    "text": "RAMBO: Initializing BO, the smart way\n Contribution to the 2024 BO&Materials Hackathon hosted by the Acceleration Consortium."
-  },
-  {
-    "objectID": "portfolio.html#glossagen",
-    "href": "portfolio.html#glossagen",
-    "title": "Portfolio",
-    "section": "GlossaGen",
-    "text": "GlossaGen\n description"
-  },
-  {
-    "objectID": "portfolio.html#saccrow",
-    "href": "portfolio.html#saccrow",
-    "title": "Portfolio",
-    "section": "SACCrow",
-    "text": "SACCrow\n description"
-  },
-  {
-    "objectID": "portfolio.html#chemlitqa",
-    "href": "portfolio.html#chemlitqa",
-    "title": "Portfolio",
-    "section": "ChemLitQA",
-    "text": "ChemLitQA\n description"
-  },
-  {
     "objectID": "portfolio/portfolio.html",
     "href": "portfolio/portfolio.html",
     "title": "Portfolio",
     "section": "",
     "text": "I have been active in a number of personal and open source projects. Here are some of them:\n\n\n\n\n\n\nGlossaGen Logo\n\n\n\nGlossaGen\nAn AI-powered glossary generation tool for technical documents.\n\n\n\n\n\n\n\n\nRAMBO Project Image\n\n\n\nRAMBO: Initializing BO, the smart way\nContribution to the 2024 BO&Materials Hackathon hosted by the Acceleration Consortium.\n\n\n\n\n\n\n\n\nSACCrow Logo\n\n\n\nSACCrow\nA sentiment analysis tool for crowdsourced reviews.\n\n\n\n\n\n\n\n\nChemLitQA Logo\n\n\n\nChemLitQA\nA question-answering system for chemistry literature."
-  },
-  {
-    "objectID": "portfolio/portfolio.html#glossagen",
-    "href": "portfolio/portfolio.html#glossagen",
-    "title": "Portfolio",
-    "section": "GlossaGen",
-    "text": "GlossaGen\nAn AI-powered glossary generation tool for technical documents."
-  },
-  {
-    "objectID": "portfolio/portfolio.html#rambo-initializing-bo-the-smart-way",
-    "href": "portfolio/portfolio.html#rambo-initializing-bo-the-smart-way",
-    "title": "Portfolio",
-    "section": "RAMBO: Initializing BO, the smart way",
-    "text": "RAMBO: Initializing BO, the smart way\n\n\n\nRAMBO Project Image\n\n\nContribution to the 2024 BO&Materials Hackathon hosted by the Acceleration Consortium."
-  },
-  {
-    "objectID": "portfolio/portfolio.html#saccrow",
-    "href": "portfolio/portfolio.html#saccrow",
-    "title": "Portfolio",
-    "section": "SACCrow",
-    "text": "SACCrow\nA sentiment analysis tool for crowdsourced reviews."
-  },
-  {
-    "objectID": "portfolio/portfolio.html#chemlitqa",
-    "href": "portfolio/portfolio.html#chemlitqa",
-    "title": "Portfolio",
-    "section": "ChemLitQA",
-    "text": "ChemLitQA\nA question-answering system for chemistry literature."
   }
 ]
