@@ -5,22 +5,35 @@ body {
   position: relative;
 }
 
+body::before,
 body::after {
   content: "";
   background-image: url('assets/images/bg-pic.svg');
   background-repeat: no-repeat;
-  background-position: right bottom;
   background-attachment: fixed;
   background-size: 300px; /* Adjust size as needed */
-  opacity: 0.2; /* Adjust this value to change transparency (0.0 to 1.0) */
+  opacity: 0.3; /* Adjust this value to change transparency (0.0 to 1.0) */
   position: fixed;
+  z-index: -1; /* Ensures the images stay behind your content */
+  pointer-events: none; /* Allows clicking through the images */
+}
+
+body::before {
+  background-position: left top;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  z-index: -1; /* Ensures the image stays behind your content */
-  pointer-events: none; /* Allows clicking through the image */
 }
+
+body::after {
+  background-position: right bottom;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
   
 /* Add this to ensure content is above the background image */
 .content-wrapper {
