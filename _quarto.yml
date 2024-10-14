@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  favicon: "assets/images/favicon.png"
   title: "Magdalena Lederbauer"
   navbar:
     left:
