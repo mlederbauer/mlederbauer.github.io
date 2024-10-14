@@ -53,14 +53,14 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "I have been active in a number of academic and extracurricular projects. Here are some of them, click on the respective panels to find out more:"
+    "text": "I have been active in a number of academic and extracurricular projects. Here are some of them; click on the respective panels to find out more:"
   },
   {
     "objectID": "portfolio.html#hackathons",
     "href": "portfolio.html#hackathons",
     "title": "Portfolio",
     "section": "Hackathons",
-    "text": "Hackathons\n\n\n\n\n\nGlossaGen: An automated glossary generation tool for academics\nWinner (Knowledge Graph Prize & Second Place) of the 2024 Global Hackathon on LLMs in Chemistry and Materials Science. My team created an AI-powered glossary generation tool for technical documents.\n\n\n\n\n\n\n\nRAMBO: Initializing BO, the smart way\nContribution to the 2024 BO&Materials Hackathon hosted by the Acceleration Consortium.\n\n\n\n\n\n\n\nSynSearch: Leveraging LLMs for chemical synthesis\nWinner of the 2023 Hackathon on Generative AI hosted by the Swiss Data Science Center. My team designed a tool to aid experimental chemists in designing their experiments by leveraging chemical literature with large language models."
+    "text": "Hackathons\n\n\n\n\n\nGlossaGen: An automated glossary generation tool for academics\nWinner (Knowledge Graph Prize & Second Place) of the 2024 Global Hackathon on LLMs in Chemistry and Materials Science. My team created an AI-powered glossary generation tool for technical documents.\n\n\n\n\n\n\n\n\nRAMBO: Initializing BO, the smart way\nContribution to the 2024 BO&Materials Hackathon hosted by the Acceleration Consortium.\n\n\n\n\n\n\n\n\nSynSearch: Leveraging LLMs for chemical synthesis\nWinner of the 2023 Hackathon on Generative AI hosted by the Swiss Data Science Center. My team designed a tool to aid experimental chemists in designing their experiments by leveraging chemical literature with large language models."
   },
   {
     "objectID": "portfolio.html#hackathons-1",
@@ -74,7 +74,7 @@
     "href": "portfolio.html#research-projects",
     "title": "Portfolio",
     "section": "Research Projects",
-    "text": "Research Projects\n\n\n\n\n\nSACCrow\nWIP!\n\n\n\n\n\n\n\nChemLitQA\nWIP!"
+    "text": "Research Projects\n\n\n\n\n\nToward a General Synthesis Plannign Tool in Single Atom Catalysis\nWIP!\n\n\n\n\n\n\n\n\nChemLitQA\nWIP!"
   },
   {
     "objectID": "portfolio.html#research-projects-1",
@@ -88,13 +88,13 @@
     "href": "portfolio.html#xyz",
     "title": "Portfolio",
     "section": "XYZ",
-    "text": "XYZ\n\n\n\n\n\n\nXXX Logo\n\n\n\nXXX\nXXX description\n\n\n\n\n\n\n\n\nYYYY Logo\n\n\n\nYYY\nYYY description"
+    "text": "XYZ\n\n\n\n\n\n\nXXX Logo\n\n\n\nXXX\nXXX description\n\n\n\n\n\n\n\n\n\nYYYY Logo\n\n\n\nYYY\nYYY description"
   },
   {
     "objectID": "portfolio.html#outreach",
     "href": "portfolio.html#outreach",
     "title": "Portfolio",
     "section": "Outreach",
-    "text": "Outreach\n\n\n\n\n\nByteSizedChem\nA recent passion project of mine; a blog about navigating digital chemistry as a young student.\n\n\n\n\n\n\n\nYYY\nYYY description"
+    "text": "Outreach\n\n\n\n\n\nByteSizedChem\nA recent passion project of mine; a blog about navigating digital chemistry as a young student.\n\n\n\n\n\n\n\n\nYYY\nYYY description"
   }
 ]
