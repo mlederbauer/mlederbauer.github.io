@@ -18,7 +18,8 @@ I have been active in a number of academic and extracurricular projects. Here ar
 
 ### Toward a General Synthesis Plannign Tool in Single Atom Catalysis
 
-WIP!
+WIP! Thank you for your patience.
+
 :::
 :::
 
@@ -30,29 +31,7 @@ WIP!
 
 ### ChemLitQA
 
-WIP!
-:::
-:::
-
-<!--  -->
-
-:::
-
-<!--  -->
-<!--  -->
-
-## Outreach
-
-::: {.grid}
-
-::: {.g-col-6}
-::: {.project-panel}
-[![](portfolio/images/XXX.png){.img-fluid}](XXX.qmd)
-
-### ByteSizedChem
-
-A recent passion project of mine; a blog about navigating digital chemistry as a young student.
-
+WIP! WIP! Thank you for your patience.
 :::
 :::
 
@@ -60,11 +39,23 @@ A recent passion project of mine; a blog about navigating digital chemistry as a
 
 ::: {.g-col-6}
 ::: {.project-panel}
-[![](portfolio/images/YYY.png){.img-fluid}](YYY.qmd)
+[![](portfolio/images/chemlitqa-logo.png){.img-fluid}](chemlitqa.qmd)
 
-### YYY
+### Predicting NMR Chemical Shifts of Precatalysts for Olefin Metathesis
 
-YYY description
+WIP! Thank you for your patience.
+:::
+:::
+
+<!--  -->
+
+::: {.g-col-6}
+::: {.project-panel}
+[![](portfolio/images/chemlitqa-logo.png){.img-fluid}](chemlitqa.qmd)
+
+### Revolutionizing Process Simulations with 
+
+WIP! WIP! Thank you for your patience.
 :::
 :::
 
@@ -111,6 +102,65 @@ Contribution to the 2024 BO&Materials Hackathon hosted by the Acceleration Conso
 ### SynSearch: Leveraging LLMs for chemical synthesis
 
 Winner of the 2023 Hackathon on Generative AI hosted by the Swiss Data Science Center. My team designed a tool to aid experimental chemists in designing their experiments by leveraging chemical literature with large language models.
+:::
+:::
+
+<!--  -->
+
+:::
+
+<!--  -->
+<!--  -->
+
+## Outreach
+
+::: {.grid}
+
+::: {.g-col-6}
+::: {.project-panel}
+[![](portfolio/images/XXX.png){.img-fluid}](https://bytesizedchem.com)
+
+### ByteSizedChem
+
+A recent passion project of mine; a blog about navigating digital chemistry as a young student.
+
+:::
+:::
+
+<!--  -->
+
+::: {.g-col-6}
+::: {.project-panel}
+[![](portfolio/images/YYY.png){.img-fluid}](YYY.qmd)
+
+### Women in Natural Sciences (at ETH Zurich and beyond)
+
+XXX
+:::
+:::
+
+<!--  -->
+
+::: {.g-col-6}
+::: {.project-panel}
+[![](portfolio/images/YYY.png){.img-fluid}](YYY.qmd)
+
+### Teaching
+
+At ETH Zurich, we get an enormous amount of value from learning from older peers who work as Teaching Assistants. Over the course of my studies, I worked as one as well, and ended up leading a team of five TAs for a 180+ undergraduate student Chemistry lecture. Click for thoughts and useful resources.
+
+:::
+:::
+
+<!--  -->
+
+::: {.g-col-6}
+::: {.project-panel}
+[![](portfolio/images/YYY.png){.img-fluid}](YYY.qmd)
+
+### Mentoring Students: The Chemistry Olympiad
+
+Even though I am a young student myself, mentorship is important to me. I strongly believe in the value that people who are "1-2 steps ahead" can provide.
 :::
 :::
 
