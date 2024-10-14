@@ -14,8 +14,8 @@ website:
         text: Portfolio
       - href: press.qmd
         text: Press
-      - href: https://bytesizedchem.com
-        text: Blog
+      # - href: https://bytesizedchem.com
+      #   text: Blog
 
 format:
   html:
