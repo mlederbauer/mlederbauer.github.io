@@ -25,10 +25,16 @@ format:
 
 :::{#heading}
 
-Welcome to my personal website! I am a visiting graduate student at MIT and master's student at ETH Zurich with a focus on digital chemistry, catalysis, and chemical engineering. I am interested in spectroscopy (in partiular, mass spectrometry for structural elucidation of small molecules), transition metal and digital chemistry.
+Welcome to my personal website! I am a visiting graduate student at MIT and master's student at ETH Zurich with a focus on digital chemistry, catalysis, and chemical engineering. I am interested in spectroscopy (in particular, [mass spectrometry for meachine-learning assisted structural elucidation of small molecules]()), [transition metal]() and [digital chemistry]().
 
-* [Academic CV]()
-* [Portfolio of recent projects]()
+<center>
+<div class="button-container">
+  <a href="cv.qmd" class="custom-button">Academic CV</a>
+  <br>
+  <br>
+  <a href="portfolio.qmd" class="custom-button">Portfolio of recent projects</a>
+</div>
+</center>
 
 Happy to get in touch via social media or e-mail.
 
