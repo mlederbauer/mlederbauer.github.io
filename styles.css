@@ -1,9 +1,32 @@
 /* css styles */
 
-/* Change the main font */
- body {
-    font-family: 'Arial', sans-serif;
-  }
+body {
+  font-family: 'Arial', sans-serif;
+  position: relative;
+}
+
+body::after {
+  content: "";
+  background-image: url('assets/images/bg-pic.svg');
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-attachment: fixed;
+  background-size: 300px; /* Adjust size as needed */
+  opacity: 0.2; /* Adjust this value to change transparency (0.0 to 1.0) */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1; /* Ensures the image stays behind your content */
+  pointer-events: none; /* Allows clicking through the image */
+}
+  
+/* Add this to ensure content is above the background image */
+.content-wrapper {
+  position: relative;
+  z-index: 1;
+}
 
   /* @import url('https://fonts.cdnfonts.com/css/latin-modern-sans');
 

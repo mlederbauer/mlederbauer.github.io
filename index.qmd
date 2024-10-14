@@ -22,6 +22,8 @@ format:
       styles.css
 ---
 
+<div class="content-wrapper">
+
 
 :::{#heading}
 
@@ -46,3 +48,5 @@ Happy to get in touch via social media or e-mail.
 * **[24/03]** I started working as a research intern in the Laboratory of Artificial Chemical Intelligence (LIAC) at **EPFL**! I will be working with Philippe Schwaller and Andres M. Bran on large language model agents in
 heterogeneous catalysis. Our work won a poster award at the Faraday Discussions in data-driven discovery in the chemical sciences in Oxford, UK.
 * **[23/09]** I am starting my **master's studies in chemistry at ETH Zurich**, supported by the **Excellence Scholarship and Opportunity Program** (ESOP) by the ETH Foundation.
+
+</div>
