@@ -22,5 +22,20 @@
   },
   "portfolio/portfolio.qmd": {
     "portfolio.html": "34a94146"
+  },
+  "portfolio/24-mass-spec/item.qmd": {
+    "item.html": "21e4a7f2"
+  },
+  "portfolio/23-NMRcraft/item.qmd": {
+    "item.html": "98a04435"
+  },
+  "portfolio/22-SPTNRTL/item.qmd": {
+    "item.html": "3bb67b81"
+  },
+  "portfolio/24-SACCrow/item.qmd": {
+    "item.html": "8b20f815"
+  },
+  "portfolio/23-SynSearch/item.qmd": {
+    "item.html": "87f59a18"
   }
 }

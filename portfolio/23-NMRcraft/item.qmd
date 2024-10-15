@@ -1,0 +1,8 @@
+---
+title: "RAMBO-I: Initializing BO, the smart way"
+toc: true
+---
+
+# RAMBBO-I: Initializing BO, the smart way
+# test
+WIP

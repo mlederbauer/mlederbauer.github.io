@@ -27,7 +27,7 @@ format:
 
 :::{#heading}
 
-Welcome to my personal website! I am a visiting graduate student at MIT and master's student at ETH Zurich with a focus on digital chemistry, catalysis, and chemical engineering. I am interested in spectroscopy (in particular, [mass spectrometry for meachine-learning assisted structural elucidation of small molecules]()), [transition metal]() and [digital chemistry]().
+Welcome to my personal website! I am a visiting graduate student at MIT and master's student at ETH Zurich with a focus on digital chemistry, catalysis, and chemical engineering. I am interested in spectroscopy (in particular, [mass spectrometry for meachine-learning assisted structural elucidation of small molecules](portfolio/24-mass-spec/item.qmd)), [transition metal](portfolio/23-NMRcraft/item.qmd) and [digital chemistry](portfolio/22-SPTNRTL/item.qmd).
 
 <center>
 <div class="button-container">
@@ -38,7 +38,7 @@ Welcome to my personal website! I am a visiting graduate student at MIT and mast
 </div>
 </center>
 
-Happy to get in touch via social media or e-mail.
+For any inquiries, please do get in touch via social media or e-mail.
 
 :::
 

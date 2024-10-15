@@ -14,9 +14,21 @@ I have been active in a number of academic and extracurricular projects. Here ar
 
 ::: {.g-col-6}
 ::: {.project-panel}
-[![](portfolio/images/saccrow-logo.png){.img-fluid}](saccrow.qmd)
+[![](portfolio/24-mass-spec/item.png){.img-fluid}](portfolio/24-mass-spec/item.qmd)
 
-### Toward a General Synthesis Plannign Tool in Single Atom Catalysis
+### Structure Elucidaiton with Machine Learning
+
+WIP! Thank you for your patience.
+
+:::
+:::
+
+
+::: {.g-col-6}
+::: {.project-panel}
+[![](portfolio/24-SACCrow/item.png){.img-fluid}](portfolio/24-SACCrow/item.qmd)
+
+### Toward a General Synthesis Planning Tool in Single Atom Catalysis
 
 WIP! Thank you for your patience.
 
@@ -27,11 +39,11 @@ WIP! Thank you for your patience.
 
 ::: {.g-col-6}
 ::: {.project-panel}
-[![](portfolio/images/chemlitqa-logo.png){.img-fluid}](chemlitqa.qmd)
+[![](portfolio/24-ChemLitQA/item.png){.img-fluid}](portfolio/24-ChemLitQA/item.qmd)
 
 ### ChemLitQA
 
-WIP! WIP! Thank you for your patience.
+WIP! Thank you for your patience.
 :::
 :::
 
@@ -39,7 +51,7 @@ WIP! WIP! Thank you for your patience.
 
 ::: {.g-col-6}
 ::: {.project-panel}
-[![](portfolio/images/chemlitqa-logo.png){.img-fluid}](chemlitqa.qmd)
+[![](portfolio/23-NMRcraft/item.png){.img-fluid}](portfolio/23-NMRcraft/item.qmd)
 
 ### Predicting NMR Chemical Shifts of Precatalysts for Olefin Metathesis
 
@@ -51,11 +63,11 @@ WIP! Thank you for your patience.
 
 ::: {.g-col-6}
 ::: {.project-panel}
-[![](portfolio/images/chemlitqa-logo.png){.img-fluid}](chemlitqa.qmd)
+[![](portfolio/22-SPTNRTL/item.png){.img-fluid}](portfolio/22-SPTNRTL/item.qmd)
 
-### Revolutionizing Process Simulations with 
+### SPT-NRTL
 
-WIP! WIP! Thank you for your patience.
+WIP! Thank you for your patience.
 :::
 :::
 
@@ -72,7 +84,7 @@ WIP! WIP! Thank you for your patience.
 
 ::: {.g-col-6}
 ::: {.project-panel}
-[![](portfolio/images/glossagen-logo.png){.img-fluid}](glossagen.qmd)
+[![](portfolio/24-GlossaGen/item.png){.img-fluid}](glossagen.qmd)
 
 ### GlossaGen: An automated glossary generation tool for academics
 
@@ -118,7 +130,7 @@ Winner of the 2023 Hackathon on Generative AI hosted by the Swiss Data Science C
 
 ::: {.g-col-6}
 ::: {.project-panel}
-[![](portfolio/images/XXX.png){.img-fluid}](https://bytesizedchem.com)
+[![](assets/images/bsc.png){.img-fluid}](https://bytesizedchem.com)
 
 ### ByteSizedChem
 
@@ -131,7 +143,7 @@ A recent passion project of mine; a blog about navigating digital chemistry as a
 
 ::: {.g-col-6}
 ::: {.project-panel}
-[![](portfolio/images/YYY.png){.img-fluid}](YYY.qmd)
+[![](portfolio/o-WiNS/item.png){.img-fluid}](portfolio/o-WiNS/item.qmd)
 
 ### Women in Natural Sciences (at ETH Zurich and beyond)
 
@@ -143,7 +155,7 @@ XXX
 
 ::: {.g-col-6}
 ::: {.project-panel}
-[![](portfolio/images/YYY.png){.img-fluid}](YYY.qmd)
+[![](portfolio/o-teaching/item.png){.img-fluid}](portfolio/o-teaching/item.qmd)
 
 ### Teaching
 
@@ -156,7 +168,7 @@ At ETH Zurich, we get an enormous amount of value from learning from older peers
 
 ::: {.g-col-6}
 ::: {.project-panel}
-[![](portfolio/images/YYY.png){.img-fluid}](YYY.qmd)
+[![](portfolio/o-ChOly/item.png){.img-fluid}](portfolio/o-ChOly/item.qmd)
 
 ### Mentoring Students: The Chemistry Olympiad
 
