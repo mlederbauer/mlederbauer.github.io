@@ -1,8 +1,6 @@
 ---
-title: "RAMBO-I: Initializing BO, the smart way"
+title: "Retrieval Augmented Generation"
 toc: true
 ---
 
-# RAMBBO-I: Initializing BO, the smart way
-# test
-WIP
+WIP! Thank you for your patience.
