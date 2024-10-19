@@ -2,7 +2,7 @@
 title: "Press"
 ---
 
-!["Digital Chemistry – A Paradigm Shift", a talk I gave at the annual Donor meeting of the ETH Foundation. Photo credits: Alessandro Della Bella, ETH Foundation.](assets/images/eth-foundation.jpg)
+!["Digital Chemistry – A Paradigm Shift", a talk I gave at the annual Donor meeting of the ETH Foundation in 2024. Photo credits: Alessandro Della Bella, ETH Foundation.](assets/images/eth-foundation.jpg)
 
 For any press inquiries, please do get in touch via e-mail.
 
