@@ -4,7 +4,7 @@
     "href": "portfolio/24-GlossaGen/item.html",
     "title": "GlossaGen",
     "section": "",
-    "text": "WIP! Thank you for your patience."
+    "text": "Large Language Models go Chemistry! As part of the global LLM Hackathon for Applications in Chemistry and Materials Science, our team (Dieter Plessers, Philippe Schwaller and me) built a tool to automatically generate glossaries from any PDF, in particular scientific publications, as a tool to help scientists create effective proposals. In a case study that we set up during the two-day hackathon, we investigated publications on Zeolites and were excited to rediscover common relations in that area of chemistry. On a technical level, we built a simple large language model agent to parse text from a publicatin and systematically identify and define keywords of relevance. We even began to set up a LaTeX extension to create a glossary simply by the command \\printglossary (just like \\printbibliography).\nAs a “cherry on top”, we created a tool to extract and link keywords in the publication via a knowledge graph. Neo4J awarded us with the Knowledge Graph Prize, as outlined in a recent newsletter issue here.\n\n\n\nInterface of the GlossaGen web app demo (left) and generated knowledge graph (right)\n\n\nWe are honored that our project headlined the medium post on “How to Use LLMs to Accelerate Scientific Discovery” by Ben Blaiszik! A preprint of the work of all fantastic teams is in preparation. We thank all organizers for setting up such a fantastic hackathon experience.\nCheck out our project on GitHub here."
   },
   {
     "objectID": "portfolio/24-RAMBO-I/item.html",
@@ -129,6 +129,34 @@
     "objectID": "portfolio/23-SynSearch/item.html",
     "href": "portfolio/23-SynSearch/item.html",
     "title": "NMRcraft",
+    "section": "",
+    "text": "WIP! Thank you for your patience."
+  },
+  {
+    "objectID": "portfolio/24-ChemLitQA/item.html",
+    "href": "portfolio/24-ChemLitQA/item.html",
+    "title": "Retrieval Augmented Generation",
+    "section": "",
+    "text": "WIP! Thank you for your patience."
+  },
+  {
+    "objectID": "portfolio/o-teaching/item.html",
+    "href": "portfolio/o-teaching/item.html",
+    "title": "Teaching at and beyond ETH Zurich",
+    "section": "",
+    "text": "WIP! Thank you for your patience."
+  },
+  {
+    "objectID": "portfolio/o-ChOly/item.html",
+    "href": "portfolio/o-ChOly/item.html",
+    "title": "Fostering Talent of Tomorrow: Science Olympiads and Mentoring",
+    "section": "",
+    "text": "WIP! Thank you for your patience."
+  },
+  {
+    "objectID": "portfolio/o-WiNS/item.html",
+    "href": "portfolio/o-WiNS/item.html",
+    "title": "Women in Natural Sciences at ETH Zurich",
     "section": "",
     "text": "WIP! Thank you for your patience."
   }
