@@ -37,7 +37,7 @@ WIP! Thank you for your patience.
 
 <!--  -->
 
-::: {.g-col-6}
+<!-- ::: {.g-col-6}
 ::: {.project-panel}
 [![](portfolio/24-ChemLitQA/item.png){.img-fluid}](portfolio/24-ChemLitQA/item.qmd)
 
@@ -45,7 +45,7 @@ WIP! Thank you for your patience.
 
 WIP! Thank you for your patience.
 :::
-:::
+::: -->
 
 <!--  -->
 
