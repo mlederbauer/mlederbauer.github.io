@@ -11,8 +11,8 @@ website:
       #   text: Home
       - href: 'assets/files/cv.pdf'
         text: CV
-      - href: portfolio.qmd
-        text: Portfolio
+      # - href: portfolio.qmd
+      #   text: Portfolio
       - href: press.qmd
         text: Press
       # - href: https://bytesizedchem.com

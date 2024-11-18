@@ -32,9 +32,9 @@ Welcome to my personal website! I am a visiting graduate student at MIT and mast
 <center>
 <div class="button-container">
   <a href="assets/files/cv.pdf" class="custom-button">Academic CV</a>
-  <br>
-  <br>
-  <a href="portfolio.qmd" class="custom-button">Portfolio of recent projects</a>
+  <!-- <br> -->
+  <!-- <br> -->
+  <!-- <a href="portfolio.qmd" class="custom-button">Portfolio of recent projects</a> -->
 </div>
 </center>
 

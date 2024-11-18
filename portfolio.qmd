@@ -18,7 +18,7 @@ I have been active in a number of academic and extracurricular projects. Here ar
 
 ### Structure Elucidaiton with Machine Learning
 
-WIP! Thank you for your patience.
+In my current master's thesis, I am investigating how we can use machine learning to identify unknown metabolites and degradation products of pesticides.
 
 :::
 :::
